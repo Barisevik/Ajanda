@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/PlanActivity"
+        android:icon="@drawable/ic_baseline_edit_note_24"
+        android:title="Planlarım" />
+    <item
+        android:id="@+id/hatıirliyiciActivty"
+        android:icon="@drawable/hatirlatici"
+        android:title="Hatırlatıcı" />
+    <item
+        android:id="@+id/AnasayfaActivity"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Ana sayfa" />
+</menu>
